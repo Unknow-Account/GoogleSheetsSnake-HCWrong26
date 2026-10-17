@@ -4,7 +4,12 @@ A weak attempt of snake in google sheets
 This has ZERO app scripts, everything inside google sheets. 
 
 Play here (community) version!: [https://docs.google.com/spreadsheets/d/17soKXQMt0PgRPtUy88T4wZDqv7EoXuz52T0CmTOYOsM/edit?usp=sharing](url)
-Free feel to make your own copy. You can download the copy in this github or the google spread sheet (Github is better).
+Free feel to make your own copy. You can download the copy in this github or the google spread sheet (BELOW) (Google sheet is is better).
+
+If you are copying directly from the google sheets use THIS link
+[https://docs.google.com/spreadsheets/d/1vIMdPfbbzQAre-1krQYzPpJyKksrsZtTg_TwaHRQq_o/edit?usp=sharing
+](url)
+
 
 # Controls
 
@@ -25,6 +30,29 @@ You are consider dead if you:
   Go out of the playing area (including the border/dark green)
   
   Touch/Merge with your own body
+
+
+# IMPORTANT-IF YOU ARE COPYING VIA GITHUB!!!
+  Please ONLY use google sheets.
+  At first you need to set circular dependence! 
+  Go to file -> settings -> Calculations and set it to this.
+  
+  <img width="263" height="237" alt="image" src="https://github.com/user-attachments/assets/2d4ffc04-3b1f-4eaa-84c6-7c6688b38305" />
+
+  Then add in the checkboxes!
+  You need to do F19,M19,J15,J16,I16,K16
+
+  BEFORE: 
+  
+  <img width="237" height="138" alt="image" src="https://github.com/user-attachments/assets/0983ae6b-f51a-4fb7-a4ff-158c4c1b54ff" />
+
+  AFTER:
+
+  <img width="275" height="145" alt="image" src="https://github.com/user-attachments/assets/68bd28b6-da3d-4874-ace8-3f37158303ff" />
+
+  Then that is it! Your github copy is now ready to play!
+    
+
 
 
 # Infomation/Layout
