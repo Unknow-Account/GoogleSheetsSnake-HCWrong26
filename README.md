@@ -12,7 +12,9 @@ UP: Up checkbox
 Left: Left checkbox
 Down: Down checkbox
 Right: Right checkbox
+
 <img width="92" height="73" alt="The control board" src="https://github.com/user-attachments/assets/5697a95e-d2b4-4eb3-9e82-dad7a267e457" />
+
 The image above is the control board
 
 You are consider dead if you:
@@ -21,8 +23,11 @@ You are consider dead if you:
 
 
 # Infomation/Layout
+
 <img width="681" height="498" alt="image" src="https://github.com/user-attachments/assets/f39a088b-f10d-4ebf-a59d-9f1c758766f7" />
+
 The image above is the playing area.
+
 
 On the left is what each color means.
 
