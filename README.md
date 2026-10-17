@@ -3,12 +3,14 @@ A weak attempt of snake in google sheets
 
 This has ZERO app scripts, everything inside google sheets. 
 
-Play here (community) version!: [https://docs.google.com/spreadsheets/d/17soKXQMt0PgRPtUy88T4wZDqv7EoXuz52T0CmTOYOsM/edit?usp=sharing](url)
+Play here (community) version!: https://docs.google.com/spreadsheets/d/17soKXQMt0PgRPtUy88T4wZDqv7EoXuz52T0CmTOYOsM/edit?usp=sharing
 Free feel to make your own copy. You can download the copy in this github or the google spread sheet (BELOW) (Google sheet is is better).
 
 If you are copying directly from the google sheets use THIS link
-[https://docs.google.com/spreadsheets/d/1vIMdPfbbzQAre-1krQYzPpJyKksrsZtTg_TwaHRQq_o/edit?usp=sharing
-](url)
+https://docs.google.com/spreadsheets/d/1vIMdPfbbzQAre-1krQYzPpJyKksrsZtTg_TwaHRQq_o/edit?usp=sharing
+
+yes you gotta manually copy the link im sorry :(
+
 
 
 # Controls
